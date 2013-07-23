@@ -1,0 +1,10 @@
+What I readed before I use it :
+	http://www.yangzhiping.com/tech/git.html
+	~ http://hi.baidu.com/mcspring/item/198f1e977f8f98bccd80e5b3
+
+Where I get my Git (exe for windows) :
+	https://code.google.com/p/msysgit/downloads/list
+	~ https://code.google.com/p/msysgit/downloads/detail?name=Git-1.8.3-preview20130601.exe&can=2&q=
+		~ SHA1 Checksum:	c1f95ba90bd914bcfe1fcfad3886f553789cce10
+
+
